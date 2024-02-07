@@ -1,0 +1,6 @@
+aws:
+  accessKeyId: test
+  secretAccessKey: test
+  endpointOverride: http://localhost:4566
+  s3:
+    bucketName: document-bucket

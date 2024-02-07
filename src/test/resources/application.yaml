@@ -1,0 +1,9 @@
+aws:
+  region: us-east-1
+  accessKeyId: test
+  secretAccessKey: test
+  endpointOverride: http://localhost:4566
+  s3:
+    bucketName: document-test-bucket
+    preSigner:
+      expireMinute: 1
