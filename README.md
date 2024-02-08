@@ -1,4 +1,4 @@
-# sb-AWS_s3
+## Document Management API using AWS S3 and Spring Boot
 
 ### Technologies used:
 - Spring Boot 3.2.2
