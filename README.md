@@ -9,7 +9,8 @@
 - Local stack 
 - Assertj
 
-To run application use 'test' profile to bypass AWS dependency and leverage LocalStack.
+To run application locally, use 'test' profile to bypass AWS dependency and leverage LocalStack.
+1. [x] _-Dspring.profile.active=local_
 
 Please read my below blog where I am discussed in detail about AWS S3 - Spring Boot integration:
 
