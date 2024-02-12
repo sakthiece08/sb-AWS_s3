@@ -8,3 +8,9 @@
 - Docker compose 
 - Local stack 
 - Assertj
+
+To run application use 'test' profile to bypass AWS dependency and leverage LocalStack.
+
+Please read my below blog where I am discussed in detail about AWS S3 - Spring Boot integration:
+
+https://medium.com/@Teqmonic/document-management-api-using-aws-s3-and-spring-boot-8613880f91ec
